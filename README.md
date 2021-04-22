@@ -8,12 +8,13 @@ Kentucky's Red River Gorge National Geographic Area
 
 ### Perry Park
 
-![Perry Park Photo 1](Perry/PerryParkPicture.jpg)
 # Overhead view of Perry Park From diablogolf.com
+![Perry Park Photo 1](Perry/PerryParkPicture.jpg)
 
-![Perry Park Photo 2](Perry/0-pp.jpg)
 # View of Hotel and number 9 from ketuckytourism.com
+![Perry Park Photo 2](Perry/0-pp.jpg)
 
+## Indian Staircase
 
-![Map of The Indian Staircase](IndianJPEG.jpg)
 # 2D view of The Indian Staircase located in Campton Kentucky.
+![Map of The Indian Staircase](IndianJPEG.jpg)
