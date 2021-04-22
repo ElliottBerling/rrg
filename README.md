@@ -16,5 +16,5 @@ Kentucky's Red River Gorge National Geographic Area
 
 ## Indian Staircase
 
-# 2D view of The Indian Staircase located in Campton Kentucky.
+# View of The Indian Staircase located in Campton Kentucky.
 ![Map of The Indian Staircase](IndianJPEG.jpg)
