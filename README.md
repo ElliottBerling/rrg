@@ -21,4 +21,5 @@ Kentucky's Red River Gorge National Geographic Area
 
 
 # 3D Animation Video of The Indian Staircase
+![](Staircase123.jpg)
 [Indian Staircase Animation Link](https://www.youtube.com/watch?v=45qke-GSGSE)
